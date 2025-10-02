@@ -1,6 +1,6 @@
 ---
 title: "Session 0"
-format: html
+format: gfm
 ---
 
 # Session 0
@@ -12,7 +12,7 @@ time I was born, the gods had long since abandoned the world. Or so we thought.
 
 ![Arkosh Kovash, Monk of Majere and Cleric of Paladine](../arkosh/Arkosh1.jpeg)
 
-I come from the Astivar Mountains, near the wilds of Nordmaar, and as a child I
+I come from the Astivar Mountains on Krynn, near the wilds of Nordmaar, and as a child I
 was taken in by the monks of Lahue when my village was raided by a war band of
 ogres.
 
@@ -74,12 +74,14 @@ overrun the city with the Red Dragon Army. The city was well-defended and we
 were able to hold it. We flew into the flying citadel, found ancient secrets
 there, befuddled Lord Soth with an ancient mirror, and extinguished the magical
 flames holding it aloft. As the citadel crashed to the ground, we fought
-Kansaldi Fire-Eye, who was responsible for sacking the monastery.\
+Kansaldi Fire-Eye, who was responsible for sacking the monastery.  
+
 I recovered some ancient scrolls and wrote to my master, sending him the scrolls
 I recovered and telling him of my journey and of the renewed presence of the
 gods in the world. Fizban revealed himself as an avatar of Paladine, and asked
 me to go on yet another quest for him. I agreed. When the Silver Dragon God
-requests one's aid, one renders it.\
+requests one's aid, one renders it.  
+
 I stepped though a portal of light, and began a new adventure.
 
 ## Which Brings Us to Now
