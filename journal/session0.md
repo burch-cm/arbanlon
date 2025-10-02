@@ -5,16 +5,15 @@
 
 ## Introduction
 
-My name is Arkosh Korvash, and I was raised as a monk of Majere,
-although by the time I was born, the gods had long since abandoned the
-world. Or so we thought.
+My name is Arkosh Korvash. I am a monk, explorer, seeker of truth, and
+cleric of the Silver Dragon God, Paladine.
 
-![Arkosh Kovash, Monk of Majere and Cleric of
+![Arkosh Kovash, Wild Monk and Cleric of
 Paladine](../arkosh/Arkosh1.jpeg)
 
-I come from the Astivar Mountains, near the wilds of Nordmaar, and as a
-child I was taken in by the monks of Lahue when my village was raided by
-a war band of ogres.
+I come from the Astivar Mountains on Krynn, near the wilds of Nordmaar,
+and as a child I was taken in by the monks of Lahue when my village was
+raided by a war band of ogres.
 
 When I was little, I lived with dozens of other monks, servants,
 children, and refugees in an old monastery of Majere near the northern
@@ -22,14 +21,19 @@ border of the Woods of Lahue. We were constantly on the watch from raids
 by the cannibals who inhabit those lands, and the dark things in the
 woods which hunt men and ogres. We did not worship Majere so much as
 follow his lessons of discipline, handed down in ancient scrolls and
-religious chants and rituals. The monks taught reading, and meditation,
-and provided some healing for the local villages. They traded
-occasionally with caravans along the Merchant’s Run, and knew little of
-the world outside our lands.
+religious chants and rituals. The gods, we were told, had abandoned the
+world, and there was little point in honoring absent gods, especially
+given the plight of man since our divine abandonment. Yet Majere’s
+rituals of discipline kept our minds sharp, and his lessons of combat
+still kept us safe. The monks taught reading, meditation, and provided
+some healing for the local villages. They traded occasionally with
+caravans along the Merchant’s Run, and knew little of the world outside
+our lands. We were isolated and surrounded by danger, yet we were safer
+than most.
 
-When I was still a child, my master, a roving monk named Kirwa Doshun,
-took me as his apprentice. Wild monks, also called *Yamabushui*, or
-“wild mountain men” were thought to know the secrets of demons and
+When I was still a child, my master, a roving wild monk named Kirwa
+Doshun, took me as his apprentice. Wild monks, also called *Yamabushui*,
+or “wild mountain men” were thought to know the secrets of demons and
 forest spirits, but they were usually just men who wanted to avoid even
 the remnants of civilization found in the monastery walls. We lived in
 the woods as hermits, only visiting the monastery for holy days and
@@ -79,12 +83,14 @@ well-defended and we were able to hold it. We flew into the flying
 citadel, found ancient secrets there, befuddled Lord Soth with an
 ancient mirror, and extinguished the magical flames holding it aloft. As
 the citadel crashed to the ground, we fought Kansaldi Fire-Eye, who was
-responsible for sacking the monastery.  
+responsible for sacking the monastery.
+
 I recovered some ancient scrolls and wrote to my master, sending him the
 scrolls I recovered and telling him of my journey and of the renewed
 presence of the gods in the world. Fizban revealed himself as an avatar
 of Paladine, and asked me to go on yet another quest for him. I agreed.
-When the Silver Dragon God requests one’s aid, one renders it.  
+When the Silver Dragon God requests one’s aid, one renders it.
+
 I stepped though a portal of light, and began a new adventure.
 
 ## Which Brings Us to Now
