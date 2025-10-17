@@ -5,6 +5,10 @@ format: gfm
 
 # General Notes
 
+## Intro Stuff  
+
+[Arkosh's intro](session0.md)
+
 # Party
 
 Tanis Silveroak, Elf.\
@@ -132,7 +136,7 @@ path turns into an elevated land bridge over what appears to be a muddy bog
 about 10' beneath us. As we navigate this bridge in the darkness, we are
 ambushed by Duergar, and must defend ourselves.
 
-![Duergar](../images/duergar2.jpg){fig-align="left" width=200}
-![Duergar](../images/Duergar-5e.jpg){fig-align="right" width=200}
+![Duergar](../images/duergar2.jpg){fig-align="left" width="200"}
+![Duergar](../images/Duergar-5e.jpg){fig-align="right" width="200"}
 
 (and now on to SIII)

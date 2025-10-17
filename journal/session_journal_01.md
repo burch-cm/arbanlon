@@ -3,6 +3,10 @@
 
 # General Notes
 
+## Intro Stuff
+
+[Arkosh’s intro](session0.md)
+
 # Party
 
 Tanis Silveroak, Elf.  
@@ -11,7 +15,7 @@ Balnor, Rune Knight. Tanis’ Bagman.
 Ulfgar Battlehammer, Paladin of Tyr, Order of the Sanguine Rose, First
 of His Name, Dwarf.
 
-# Session I
+## Session I
 
 The Old Man led me through a portal of light that stretched between the
 stars. I began my journey in a warm and relatively safe tavern in
@@ -97,8 +101,6 @@ underground. We were exhausted and in no shape to follow an enemy into
 its lair, so we set up camp for the night under a massive stone
 under-hang in a cliff face that provides concealed view of the fissure.
 
-![Fissure](../places/fissure2.jpeg)
-
 Saorice and I kept the watch. She only needs a few hours of rest a day,
 and I can sleep lightly, knowing that my staff will alert me when danger
 is nearby. I took the opportunity to begin this journal, and plan to
@@ -120,7 +122,7 @@ scholar of unders dark. Sometimes I miss my conversations with Gary.
 We entered the fissure at first light. Just inside, the passageway
 narrowed in the darkness. A faint light was visible in the distance, and
 the distant sound of metal on metal faintly echoed down the dark
-corridor. The air smelled of damp stone and rust, with a faint sulphur
+corridor. The air smelled of damp stone and rust, with a faint sulfur
 odor lingering underneath. Inside, the tunnel angled down, and narrowed
 to about 10’ tall and 5’ wide, with rough rock walls and stalactites on
 the tunnel ceilings dripping cold water onto our heads. I heard a
@@ -138,5 +140,10 @@ The tunnel opens wider and we are in a large chamber with high ceilings.
 Our path turns into an elevated land bridge over what appears to be a
 muddy bog about 10’ beneath us. As we navigate this bridge in the
 darkness, we are ambushed by Duergar, and must defend ourselves.
+
+<img src="../images/duergar2.jpg" data-fig-align="left" width="200"
+alt="Duergar" />
+<img src="../images/Duergar-5e.jpg" data-fig-align="right" width="200"
+alt="Duergar" />
 
 (and now on to SIII)
