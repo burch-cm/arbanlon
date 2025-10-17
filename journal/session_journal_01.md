@@ -31,7 +31,7 @@ understood, and I knew enough of Fizban to know that he would not send
 me here unless the need was dire. Or unless he had forgotten who he was
 or what was happening, but he usually snapped out of that. Anyway.
 
-![Arkosh at camp](../arkosh/Sitting.jpeg)
+<img src="../arkosh/Sitting.jpeg" width="400" alt="Arkosh at camp" />
 
 After some tense introductions, the travelers agreed to share their camp
 for the night, and a wild elf druid who was also nearby joined us. As we
@@ -115,7 +115,8 @@ and this place? Perhaps all worlds created by the gods contain their own
 distinct Underdark? I cannot say, as I am but a humble monk, not a
 scholar of unders dark. Sometimes I miss my conversations with Gary.
 
-![The Camp Fire by Winslow Homer](../images/camp-fire-winslow-homer.jpg)
+<img src="../images/camp-fire-winslow-homer.jpg" width="500"
+alt="The Camp Fire by Winslow Homer" />
 
 We entered the fissure at first light. Just inside, the passageway
 narrowed in the darkness. A faint light was visible in the distance, and
