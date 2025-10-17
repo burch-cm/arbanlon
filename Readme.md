@@ -7,7 +7,13 @@
 
 ## Session Info
 
+Our Roll20 game is located at [Roll20
+Arbanlon](https://app.roll20.net/campaigns/details/7568636/arbanlon)  
+We use Discord for voice; contact Jason for an invite.
+
 ## Arkosh’s Journal
+
+[Arkosh’s Journal](journal/session_journal_01.md)
 
 I am trying to keep an in-game “journal”, written by the monk [Arkosh
 Kovash](journal/session0.md). Arksoh doesn’t see or understand
