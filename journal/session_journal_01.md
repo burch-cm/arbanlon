@@ -56,11 +56,11 @@ saved the city of Kalaman, and slew several dragons, both alive and
 undead. I communed with the hidden god Paladine and met his avatar, who
 bid me travel here. They listened around the campfire, rapt with
 attention as I told of the fierce elven master archer Mythindra (she
-could hit a dragon in flight on a story night… much like this one), the
+could hit a dragon in flight on a stormy night… much like this one), the
 battle-scarred and ferocious half-ogre River Bear (whom I once witnessed
 tear a draconid literally in half with his bare hands), and our friend
-Gary of Kalaman, a wizard who we lost to a ferocious black dragon in the
-Wastes. I told of Fizban, the wizard who helped us flee Onyari and
+Gary of Kalaman, a wizard who we lost to a terrifying black dragon in
+the Wastes. I told of Fizban, the wizard who helped us flee Onyari and
 guided me in my journey to become a cleric, the first such cleric in
 decades, if not centuries. I asked to accompany them, and while they
 agreed to let me travel with them, they did not seem to trust me yet.
@@ -82,7 +82,7 @@ Axebeard**.
 
 ![The Temple of Thor](../places/Temple_of_Thor_in_Tor.jpeg)
 
-The Temple of Thor is a large stone building, where the wild whistles
+The Temple of Thor is a large stone building, where the wind whistles
 through large openings in the outer walls and oily torches flutter on
 the cold stone walls. We reached the Temple at dusk, as the sun was
 setting over the plain. A storm was rolling in, and the rain had already
@@ -115,9 +115,7 @@ and this place? Perhaps all worlds created by the gods contain their own
 distinct Underdark? I cannot say, as I am but a humble monk, not a
 scholar of unders dark. Sometimes I miss my conversations with Gary.
 
-## Session III
-
-(this happened in SII)
+![The Camp Fire by Winslow Homer](../images/camp-fire-winslow-homer.jpg)
 
 We entered the fissure at first light. Just inside, the passageway
 narrowed in the darkness. A faint light was visible in the distance, and
@@ -146,4 +144,4 @@ alt="Duergar" />
 <img src="../images/Duergar-5e.jpg" data-fig-align="right" width="200"
 alt="Duergar" />
 
-(and now on to SIII)
+## Session III
