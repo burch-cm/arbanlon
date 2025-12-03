@@ -31,7 +31,12 @@ understood, and I knew enough of Fizban to know that he would not send
 me here unless the need was dire. Or unless he had forgotten who he was
 or what was happening, but he usually snapped out of that. Anyway.
 
-<img src="../arkosh/Sitting.jpeg" width="400" alt="Arkosh at camp" />
+<div style="float: left; margin: 5px;">
+
+<img src="images/sitting2.jpeg" width="400" height="400"
+alt="Arkosh at camp" />
+
+</div>
 
 After some tense introductions, the travelers agreed to share their camp
 for the night, and a wild elf druid who was also nearby joined us. As we
@@ -80,7 +85,7 @@ Axebeard**.
 
 ## Session II
 
-![The Temple of Thor](../places/Temple_of_Thor_in_Tor.jpeg)
+![The Temple of Thor](images/Temple_of_Thor_in_Tor.jpeg)
 
 The Temple of Thor is a large stone building, where the wind whistles
 through large openings in the outer walls and oily torches flutter on
@@ -108,15 +113,21 @@ chronicle our adventures, such as they are. I expect the one day I will
 be asked by Paladine to account for my actions here, and I want to keep
 an accurate record. More or less.
 
-We enter the fissure in the morning. Ulfgar believes that the fissure
-may lead to the Underdark, which is either the same Underdark from my
-world, or something very similar. Perhaps the Underdark connects Krynn
-and this place? Perhaps all worlds created by the gods contain their own
-distinct Underdark? I cannot say, as I am but a humble monk, not a
-scholar of unders dark. Sometimes I miss my conversations with Gary.
+<div style="float: right; margin: 5px;">
 
-<img src="../images/camp-fire-winslow-homer.jpg" width="500"
-alt="The Camp Fire by Winslow Homer" />
+<img src="images/camp-fire-winslow-homer.jpg"
+data-fig-alt="The Camp Fire, by Winslow Homer" width="350"
+alt="Camping in the hills" />
+
+</div>
+
+We camp for the night and plan to enter the fissure in the morning.
+Ulfgar believes that the fissure may lead to the Underdark, which is
+either the same Underdark from my world, or something very similar.
+Perhaps the Underdark connects Krynn and this place? Perhaps all worlds
+created by the gods contain their own distinct Underdark? I cannot say,
+as I am but a humble monk, not a scholar of unders dark. Sometimes I
+miss my conversations with Gary.
 
 We entered the fissure at first light. Just inside, the passageway
 narrowed in the darkness. A faint light was visible in the distance, and
@@ -140,9 +151,50 @@ Our path turns into an elevated land bridge over what appears to be a
 muddy bog about 10’ beneath us. As we navigate this bridge in the
 darkness, we are ambushed by Duergar, and must defend ourselves.
 
-<img src="../images/duergar2.jpg" data-fig-align="left" width="200"
+<img src="images/duergar2.jpg" data-fig-align="left" width="300"
 alt="Duergar" />
-<img src="../images/Duergar-5e.jpg" data-fig-align="right" width="200"
+<img src="images/Duergar-5e.jpg" data-fig-align="right" width="300"
 alt="Duergar" />
 
 ## Session III
+
+Ulfgar swings his mighty axe, hewing many foes. A massive clap of
+thunder accompanies each of his strikes, flinging Duergar into walls and
+rending their bodies. Unfortunately, the booming strikes draw many foes
+to us, and we are quickly surrounded.
+
+Balnor is defending the rear of the party and quickly becomes
+overwhelmed by several Duergar warriors and a magic user. The warriors
+grow to giant size and land several fierce blows, but Balnor holds his
+own. Arkosh sprints to his aid while Tanis, Ulfgar, and Saorice fight
+the Duergar to our front.
+
+We realize that Ulfgar’s thunderous strikes are responsible for
+summoning more foes, and we endeavor to tread more quietly as we go on.
+Balnor requires some healing and Arkosh provides a healing potion from
+his bag. We rest a few minutes in a narrow passage to the North before
+pressing on, and I take the opportunity to scribble down these notes.
+
+## Session VI
+
+After the enemies are defeated, we again follow the trail of the temple
+theives. The passageway curves right, to the East, and we find a very
+narrow passage roughly hewn through the stone wall at the end of a small
+alcove. This passageway is so narrow that a human would be pressed
+between the stone walls, unable to even turn. Tanis pushes his way into
+the passageway but panics when he becomes stuck. Arkosh pushes in after
+him and casts Heroism on him, magically removing his fear. Tanis backs
+out of the passage and Saorice transforms Balnor into a rat so that he
+can run through the passageway unimpeded. Balonr sneaks into the passage
+and finds rooms at the end with guards. He returns, transforms back into
+a human, and tells us what he saw. We decide to find another way into
+the area Balnor found, avoiding for now the narrow, panic-inducing
+passageway.
+
+To the South, an open passage into a series of well-made tunnels looms.
+Arkosh uses his sylvan cloak to sneak into the tunnels, and hears the
+guards. The party moves in behind him and they prepare to move deeper
+into the well-crafted corridor, clearly part of some underground
+fortress.
+
+## Session V
