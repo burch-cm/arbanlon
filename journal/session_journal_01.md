@@ -178,7 +178,7 @@ pressing on, and I take the opportunity to scribble down these notes.
 ## Session VI
 
 After the enemies are defeated, we again follow the trail of the temple
-theives. The passageway curves right, to the East, and we find a very
+thieves. The passageway curves right, to the East, and we find a very
 narrow passage roughly hewn through the stone wall at the end of a small
 alcove. This passageway is so narrow that a human would be pressed
 between the stone walls, unable to even turn. Tanis pushes his way into
@@ -198,3 +198,142 @@ into the well-crafted corridor, clearly part of some underground
 fortress.
 
 ## Session V
+
+We enter into well-cut stone corridors, like a castle under the
+mountain. In one side chamber we see two Duegar battlemasters arm
+wresting. The room has overturned tables and evidence of a battle.
+Arkosh casts silence and the crew charges in, surprising the dark
+dwarves. These are tough opponents but we defeat them, then barricade
+this room and rest, confident that no one else heard us.
+
+After resting, we continue following the tunnels into the darkness.
+Saorice sends Balnor in rat form ahead to scout, and he finds a small
+attic room with a ring of warmth that she pockets.
+
+We continue until a voice calls out to us from a throne room up ahead.
+We enter and stand before Khuldren Blackvein, a duegar general who now
+wields the blessed hammer Whelm.
+
+> (As the adventurers enter, Khuldren rises slowly from the basalt
+> throne, molten cracks pulsing beneath his armor. His voice echoes
+> through the chamber—deep, gravelly, and seething with conviction.)
+>
+> “You feel it, don’t you? The silence of your gods.  
+> The stillness in your prayers where once there was thunder.  
+> Thor has abandoned you—abandoned all of us.  
+> His hammer sleeps no longer in the hands of the unworthy… it answers
+> now to me!”
+>
+> “I see doubt and contempt in your faces. Perhaps a demonstration.”
+>
+> (He lifts a massive blackened hammer — Whelm, its glow turned to a
+> dull red pulse. He turns to Bal’nor, points the hammer and
+> reddish-blue lightning explodes towards the man, engulfing him in
+> energy. Bal’nor falls.)
+>
+> “Now that I have your attention… For ages we Duergar have slaved in
+> the shadows of your golden kin. They call us traitors, heretics,
+> madmen — yet it was they who betrayed our kind first, chaining us to
+> the mountains while they drank and sang beneath Thor’s lightning!
+>
+> But I have heard the true song of the deep.  
+> It rings in stone and iron — not in thunderclouds.  
+> The gods above are gone, their light extinguished…  
+> And in that darkness, I have forged my own divinity.”
+>
+> (He slams Whelm against the stone, a shockwave ripples through the
+> room — molten lines flare in the floor’s runes.)
+>
+> “This hammer was meant to smite evil, to defend the faithful. Now it
+> will shatter the idols of false gods! The dwarves of the surface will
+> bow to Blackvein’s law or burn in their forges. No more prayers. No
+> more chains. Only obedience… and fire.”
+>
+> (He points Whelm toward the party, eyes burning red.)
+>
+> “You come seeking to reclaim what your dead gods lost?  
+> Then come — feel the weight of true faith.”
+>
+> “I am Khuldren Blackvein — and I am the thunder now.”
+
+Khuldren strikes down Balnor with a lightning bolt and we begin combat.
+
+## Session VI
+
+Arkosh leaps forward to attack Khuldren but the dwarf’s armor turns his
+quarterstaff aside. Khuldren questions who Arkosh is and why he’s here
+before brushing past him and attacking Ulfgar. (“How does your god like
+*that*”)
+
+Ulfgar uses his searing smite to coat his blade in holy fire as he
+swings. Tanis casts bane on Khuldren and company while Saorice shoots
+from the far side of the room.
+
+Khuldren climbs the dias and grows to massive size, then holds Whelm
+aloft. The hammer emits a thunderclap that stuns everyone in the room.
+While we are daved, Khuldren leaps into the air and crashes down with
+Whelm, knocking everyone to the ground. We are prone, stunned, and
+surrounded by giants with hammers. The guards hammer Ulfgar and Tanis,
+damaging them. Arkosh gets lucky and rolls under the throne to avoid the
+guard’s strikes.
+
+Tanis yells to Saorice to check the bag of holding and then points at
+Balnor.  
+Saorice opens the bag and sees the bow Bjarndr; she must choose between
+a scroll of revivify for Balor or the bow. She chooses the bow, and as
+she grasps it, the bow instantly attunes to her. She action surges and
+then pulls out the scroll and uses it on Balnor, who opens his eyes as
+he lays smoldering on the floor. Saorice casts healing sprirt and an
+image of an owlbear appears next to Balor, its energies healing him.
+
+## Session VII
+
+Arksoh gets on his feet and calls out to Paladine for strength. He uses
+channel divinity: balm of peace to move between party members and heal
+them. Khuldren shoves past and attacks Balnor again, slamming into him
+with his hammer, crushing Balnor’s head. He then sits Whelm’s head next
+to Balnor’s broken face before detonating the thunderclap again,
+throwing Ulfgar from his feat and killing Balnor again. As Khuldren
+turns to attack the prone Ulfgar, Arkosh uses Gungnir to stab at
+Khuldren, wounding him.
+
+A guard slams Ulfgar again as he’s prone before scoring a critical hit
+on Arkosh, breaking his ribs and slamming him into the wall. Saorice
+shoots the guard with an exploding arrow, raining little duegar bits all
+over Arkosh.
+
+Tanis kiss one guard and Ulgar rises to his feet as Khuldren is paused
+from Arkosh’s stab.
+
+Ulfgar lifts his head, blood covering his face, and turns to Khuldren.
+“I will erase your entire bloodline! I will wipe you from history. This
+is my vow!” (vow of enmity). The words shake Khuldren. Ulfgar cuts him
+down with his flaming sword.
+
+Khuldren falls to his knees, but befofe Ulfgar can land the killing
+blow, time slows to a crawl and sound fades to a dull. flat rumble. A
+voice comes from Khuldren.  
+The voice tells Tanis and Ulfgar they’re pawns, that the voice has been
+manipulating them from the start, and that they are not to go to Corvas.
+
+The thing wearing Khuldren like a suit drops Whelm at Tanis’ feet.
+
+Tanis recognizes the voice but can’t place it. Arkosh and Saorice are
+initially quiet but give their names after Tanis says it’s safe to do
+so. The voice tells them this is their final warning and then Khuldren
+and the other guards write and twist as their bodies are painfully
+crushed, and then the spirit is gone. All the duergar are dead.
+
+Tanis attunes to Whelm and the hammer tells him there’s a hidden
+compartment nearby, where we retrieve an Amulet of Health (sets Con to
+19). Arkosh uses the spear Gungnir to identify the amulet and Tanis lets
+him keep it. We decide to return to Tor. On the way out, we find more
+dead duergar, apparently in route to reinforce Blackvein when they died.
+
+We return to Tor by nightfall, and make our way to the tavern near the
+Western gate. The tavern is crowded and noisy, but we manage to find a
+corner table and Tanis and Ulfgar relate their story to us.
+
+<img src="images/tavern_table_empty_2.jpeg"
+data-fig-alt="A relatively private table in a tavern in Tor"
+alt="Tavern Table" />
